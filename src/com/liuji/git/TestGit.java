@@ -7,6 +7,7 @@ public class TestGit {
 		System.out.println("Hello Git!");
 		//Git_Clone
 		System.out.println("Hello Git_Clone!");
+		System.out.println("Hello Git!");
 	}
 
 }
