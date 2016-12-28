@@ -12,6 +12,8 @@ public class TestGit {
 		//add 1 line
 		System.out.println("Hello Git");
 		System.out.println("Hello Git!");
+		//Test SSHKey
+		System.out.println("need't password");
 	}
 
 }
