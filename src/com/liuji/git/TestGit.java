@@ -14,6 +14,13 @@ public class TestGit {
 		System.out.println("Hello Git!");
 		//Test SSHKey
 		System.out.println("need't password");
+		
+		try {
+			int i = 10/0;
+			System.out.println(i);
+		} catch (Exception e) {
+			e.printStackTrace();
+		} 
 	}
 
 }
